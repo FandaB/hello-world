@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-No nazdarek svete
+No nazdarek svete. Neco se mi tu nelibi.
